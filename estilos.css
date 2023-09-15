@@ -1,0 +1,10 @@
+*{
+    font-size: 20px;
+    color: green;
+}
+h1.primeiro{    
+    color: lightblue;
+}
+h1.segundo{
+    color: firebrick;
+}
